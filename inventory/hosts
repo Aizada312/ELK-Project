@@ -1,0 +1,7 @@
+[localhost]
+
+
+[remote]
+157.230.82.214   ansible_user=root
+
+ 
